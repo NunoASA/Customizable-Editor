@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: 'Georgia', serif;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
