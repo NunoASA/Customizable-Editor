@@ -1,4 +1,8 @@
 .editor {
-  width: 600px;
+  width: 50%;
+  min-width: 600px;
   margin: 0 auto;
+  border: 3px solid #000000;
+  border-radius: 5px;
+  padding: 5px;
 }
