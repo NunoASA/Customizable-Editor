@@ -1,5 +1,8 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/NunoASA/Customizable-Editor) 
 
+based on this Project:
+https://bitwiser.in/2017/04/11/creating-rte-barebones-editor.html
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
